@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "complex_keys2021")(type "KiCad")(uri "/home/cest/doc/tech/rad2024/phase3/complex_keys2021.pretty")(options "")(descr ""))
+)
