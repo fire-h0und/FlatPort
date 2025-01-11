@@ -1,5 +1,5 @@
 # FlatPort
-Teensy 2.0 Risc-V dropin Arduino promicro lookalike with special features.
+Teensy 2.0 Risc-V dropin Arduino promicro lookalike with special features. The chip i used is [GD32 VF 103 CBT6](https://www.gigadevice.com/product/mcu/mcus-product-selector/gd32vf103cbt6) from Giga Device. 
 
 It has a in-plane Type-C USB receptacle - it does not show much but it doubles as a full featured Type-C post - in this case a reversible USB 2.0 spec port only.
 
