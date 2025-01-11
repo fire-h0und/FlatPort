@@ -12,3 +12,6 @@ It also features in plane Reset and Boot0 tasters - they are shorted by touching
 ![Bottom View](https://github.com/fire-h0und/FlatPort/blob/main/photos/IMG_20250111_110723_833.jpg "A clumsy lit back view of the FlatPort")
 
 ![View of the FlatPort](https://github.com/fire-h0und/FlatPort/blob/main/photos/IMG_20250111_110654_295.jpg "Lying flat on the deskpad")
+
+I picked to make this project for the alleged compatibility with QMK firmware - to be a future keyboard daughter board.
+As i get to that point expect more updates here, it is on my ever growing TODO list :o}
