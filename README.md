@@ -1,9 +1,9 @@
 # FlatPort
-Teensy 2.0 Risc-V dropin Arduino promicro lookalike with special features. The chip i used is [GD32 VF 103 CBT6](https://www.gigadevice.com/product/mcu/mcus-product-selector/gd32vf103cbt6) from Giga Device. 
+Teensy 2.0 Risc-V dropin Arduino promicro lookalike with special features. The chip I used is [GD32 VF 103 CBT6](https://www.gigadevice.com/product/mcu/mcus-product-selector/gd32vf103cbt6) from Giga Device. 
 
-It has a in-plane Type-C USB receptacle - it does not show much but it doubles as a full featured Type-C post - in this case a reversible USB 2.0 spec port only.
+It has a in-plane Type-C USB receptacle - it does not show much but it doubles as a full featured Type-C port - in this case a reversible USB 2.0 spec port only.
 
-It also features in plane Reset and Boot0 tasters - they are shorted by touching with a pointy metal object.<br>
+It also features in-plane Reset and Boot0 tasters - they are shorted by touching with a pointy conductive/metal object.<br>
   Do note they are not to be touched mutually by a same metal object: one shorts pin Boot0 to ground the other pulls the reset pin to Vcc.<br>
   In effect this means one of the contacts is gound and the other is Vcc - shorting them mutually would blow the fuse!
 
@@ -14,4 +14,4 @@ It also features in plane Reset and Boot0 tasters - they are shorted by touching
 ![View of the FlatPort](https://github.com/fire-h0und/FlatPort/blob/main/photos/IMG_20250111_110654_295.jpg "Lying flat on the deskpad")
 
 I picked to make this project for the alleged compatibility with QMK firmware - to be a future keyboard daughter board.
-As i get to that point expect more updates here, it is on my ever growing TODO list :o}
+As I get to that point expect more updates here, it is on my ever growing TODO list :o}
